@@ -1,0 +1,67 @@
+{
+  "profile_info": {
+    "status": "success",
+    "auth_status": "succeed",
+    "user_id": "wegw23g23g",
+    "type": 0,
+    "name": "Вася Пупкинс",
+    "phone": "+7934634634",
+    "gender": 0,
+    "date_birth": "1985-03-26T17:49:58Z",
+    "nickname": "vasyan",
+    "email": "vasyan@ergerh.er",
+    "avatar_url": "https://annabelevanscfa.files.wordpress.com/2014/05/abc_printng_round_logo_only.jpg",
+    "vacancy": {
+      "job_position": "IT-аналитик",
+      "job_location": "Санкт-Петербург",
+      "activity_scope": "IT-разработка",
+      "work_type": "Удаленно, попроектно, работа в офисе",
+      "description": "Дизайнер с большим опытом работы, умею проектировать интерфейсы, общаться с клиентами и отстаивать свою точку зрения",
+      "portfolio_url": "https://behance.com/kamerunec151215"
+    }
+  },
+  "send_code": {
+    "status": "success"
+  },
+  "by_phone": {
+    "status": "success",
+    "auth_status": "succeed"
+  },
+  "register": {
+    "status": "success",
+    "auth_status": "uploadAvatar",
+    "type": 0,
+    "user_id": "weg34h34h"
+  },
+  "invites": [
+      {
+          "id": "1",
+          "owner:": {
+              "name": "Сбербанк",
+              "id": "1",
+              "avatarUrl": "https://www.sberbank.ru/portalserver/static/templates/%5BBBHOST%5D/RuMasterpageTemplate/static/social-en.png",
+              "clientType": "String"
+          },
+          "description": "Молодая, амбициозная команда в сфере разработке IT-продуктов, для b2b клиентов",
+          "updateDate":  "20.05.2021",
+          "statusId": "",
+          "type": "",
+      }
+  ],
+  "responses": [
+      {
+          "id": "1",
+          "owner:": {
+              "name": "Сбербанк",
+              "id": "1",
+              "avatarUrl": "https://www.sberbank.ru/portalserver/static/templates/%5BBBHOST%5D/RuMasterpageTemplate/static/social-en.png",
+              "clientType": "String"
+          },
+          "description": "Молодая, амбициозная команда в сфере разработке IT-продуктов, для b2b клиентов",
+          "updateDate":  "20.05.2021",
+          "statusId": "",
+          "type": "",
+      }
+  ]
+  
+}
