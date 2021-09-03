@@ -1,0 +1,13 @@
+{
+    "id": "1",
+    "owner:": {
+        "name": "Сбербанк",
+        "id": "1",
+        "avatarUrl": "https://www.sberbank.ru/portalserver/static/templates/%5BBBHOST%5D/RuMasterpageTemplate/static/social-en.png",
+        "clientType": "String"
+    },
+    "description": "Молодая, амбициозная команда в сфере разработке IT-продуктов, для b2b клиентов",
+    "updateDate":  "20.05.2021",
+    "statusId": "",
+    "type": "",
+}
